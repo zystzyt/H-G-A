@@ -1,9 +1,9 @@
 clone_depth: 5
 environment:
   my_variable:
-    secure: 
-access_token:
     secure: C+dMmg7vMgEif3wwxr0IkFsmmYa3S2i165lV4jeYag6hRoowhdMyA06FmdYI1xWo
+access_token:
+    secure: 065a133dba69e1cb6d83bfd5be9e2e09f0f79fda
 install:
     - node --version
     - npm --version
